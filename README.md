@@ -17,11 +17,24 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
   <a target="_blank" href="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="42" height="42" /></a>
- <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/1/1f/Scratch_Logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Scratch_Logo.svg" alt="scratch" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Canva_Logo.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Canva_Logo.png" alt="canva" width="42" height="42" /></a>
-  <a target="_blank" href="https://gearsbot.org/images/favicon.ico"><img src="https://gearsbot.org/images/favicon.ico" alt="gearsbot" width="42" height="42" /></a>
+  
   <a target="_blank" href="https://avatars.githubusercontent.com/u/95980889?s=200&v=4"><img src="https://avatars.githubusercontent.com/u/95980889?s=200&v=4" alt="faiss" width="42" height="42" /></a>
+  <!-- Scratch -->
+<a target="_blank" href="https://scratch.mit.edu">
+  <img src="https://cdn.worldvectorlogo.com/logos/scratch-2.svg" alt="scratch" width="42" height="42" />
+</a>
+
+<!-- Canva -->
+<a target="_blank" href="https://www.canva.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="canva" width="42" height="42" />
+</a>
+
+<!-- GearsBot -->
+<a target="_blank" href="https://gearsbot.org">
+  <img src="https://gearsbot.org/images/gearsbot-logo.png" alt="gearsbot" width="42" height="42" />
+</a>
+
 
 </p>
 <h2>⚡️ Where to find me</h2>
