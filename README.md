@@ -1,6 +1,16 @@
 <h1>👋 Hi, I'm M. Hammad Sheharyar.</h1>
-<p>🎓 **Coding Fellow at NUST Murabbi**   💡 Teaching **AI, Programming, and Robotics** to young learners   🌍 Empowering students with **future-ready tech skills**  ---</p>
+<p>
+🎓 <strong>Coding Fellow at NUST Murabbi</strong><br>
+💡 Teaching <strong>AI, Programming, and Robotics</strong> to young learners<br>
+🌍 Empowering students with <strong>future-ready tech skills</strong>
+</p>
+
+
+
+
 <h2>🚀 Languages and Tools I Use</h2>
+
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
@@ -20,17 +30,15 @@
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
   
   <a target="_blank" href="https://avatars.githubusercontent.com/u/95980889?s=200&v=4"><img src="https://avatars.githubusercontent.com/u/95980889?s=200&v=4" alt="faiss" width="42" height="42" /></a>
- <a target="_blank" href="https://scratch.mit.edu">
-  <img src="https://cdn.worldvectorlogo.com/logos/scratch-2.svg" alt="scratch" width="42" height="42" />
+
+ <a target="_blank" href="https://www.gradio.app/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" alt="gradio" width="42" height="42" />
 </a>
 
-<a target="_blank" href="https://www.canva.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="canva" width="42" height="42" />
+<a target="_blank" href="https://www.langchain.com/">
+  <img src="https://seeklogo.com/images/L/langchain-logo-6B4282F462-seeklogo.com.png" alt="langchain" width="42" height="42" />
 </a>
 
-<a target="_blank" href="https://gearsbot.org">
-  <img src="https://gearsbot.org/images/gearsbot-logo.png" alt="gearsbot" width="42" height="42" />
-</a>
 
 
 
