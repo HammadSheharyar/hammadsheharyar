@@ -6,10 +6,7 @@
 </p>
 
 
-
-
 <h2>🚀 Languages and Tools I Use</h2>
-
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -21,23 +18,14 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-
-
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-  <a target="_blank" href="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="42" height="42" /></a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
-  
-  <a target="_blank" href="https://avatars.githubusercontent.com/u/95980889?s=200&v=4"><img src="https://avatars.githubusercontent.com/u/95980889?s=200&v=4" alt="faiss" width="42" height="42" /></a>
+<a target="_blank" href="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
+<a target="_blank" href="https://avatars.githubusercontent.com/u/95980889?s=200&v=4"><img src="https://avatars.githubusercontent.com/u/95980889?s=200&v=4" alt="faiss" width="42" height="42" /></a>
 
- <a target="_blank" href="https://www.gradio.app/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradio.svg" alt="gradio" width="42" height="42" />
-</a>
+ 
 
-<a target="_blank" href="https://www.langchain.com/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="langchain" width="42" height="42" />
-</a>
 
 
 <h2>📈 What I’m Working On</h2>
