@@ -20,20 +20,18 @@
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
   
   <a target="_blank" href="https://avatars.githubusercontent.com/u/95980889?s=200&v=4"><img src="https://avatars.githubusercontent.com/u/95980889?s=200&v=4" alt="faiss" width="42" height="42" /></a>
-  <!-- Scratch -->
-<a target="_blank" href="https://scratch.mit.edu">
+ <a target="_blank" href="https://scratch.mit.edu">
   <img src="https://cdn.worldvectorlogo.com/logos/scratch-2.svg" alt="scratch" width="42" height="42" />
 </a>
 
-<!-- Canva -->
 <a target="_blank" href="https://www.canva.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="canva" width="42" height="42" />
 </a>
 
-<!-- GearsBot -->
 <a target="_blank" href="https://gearsbot.org">
   <img src="https://gearsbot.org/images/gearsbot-logo.png" alt="gearsbot" width="42" height="42" />
 </a>
+
 
 
 </p>
