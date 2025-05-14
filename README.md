@@ -39,7 +39,15 @@
   <img src="https://seeklogo.com/images/L/langchain-logo-6B4282F462-seeklogo.com.png" alt="langchain" width="42" height="42" />
 </a>
 
+<h2>📈 What I’m Working On</h2>
 
+<ul>
+  <li>🧠 AI + CV projects, RAG-based chatbots, fine-tuning LLMs, and building Spaces</li>
+  <li>💻 Creating frontends for interactive web apps</li>
+  <li>📚 Enrolled in <strong>Stanford Code in Place 2025</strong> as an experienced student</li>
+  <li>🔧 Hands-on coding & Robotics labs to uplift underprivileged students</li>
+  <li>🎨 Exploring creative uses of <strong>Generative AI</strong> in education</li>
+</ul>
 
 
 </p>
