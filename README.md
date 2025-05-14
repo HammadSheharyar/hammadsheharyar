@@ -12,12 +12,16 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
 <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
   <a target="_blank" href="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="42" height="42" /></a>
-
+ <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/1/1f/Scratch_Logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Scratch_Logo.svg" alt="scratch" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
+  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Canva_Logo.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Canva_Logo.png" alt="canva" width="42" height="42" /></a>
+  <a target="_blank" href="https://gearsbot.org/images/favicon.ico"><img src="https://gearsbot.org/images/favicon.ico" alt="gearsbot" width="42" height="42" /></a>
+  <a target="_blank" href="https://avatars.githubusercontent.com/u/95980889?s=200&v=4"><img src="https://avatars.githubusercontent.com/u/95980889?s=200&v=4" alt="faiss" width="42" height="42" /></a>
 
 </p>
 <h2>⚡️ Where to find me</h2>
