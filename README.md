@@ -22,9 +22,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
 <a target="_blank" href="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
-<a target="_blank" href="https://avatars.githubusercontent.com/u/95980889?s=200&v=4"><img src="https://avatars.githubusercontent.com/u/95980889?s=200&v=4" alt="faiss" width="42" height="42" /></a>
-
- 
 
 
 
