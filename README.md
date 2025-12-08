@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm M. Hammad Sheharyar.</h1>
 <p>
-🎓 <strong>Coding Fellow at NUST Murabbi</strong><br>
+🎓 <strong>Coding Instructor at NUST Murabbi</strong><br>
 💡 Teaching <strong>AI, Programming, and Robotics</strong> to young learners<br>
 🌍 Empowering students with <strong>future-ready tech skills</strong>
 </p>
