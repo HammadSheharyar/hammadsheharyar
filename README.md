@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm M. Hammad Sheharyar.</h1>
 <p>
 🧠 <strong>Computer Vision & LLM Engineer at SPCT Solutions</strong><br>
-🎓 <strong>Coding Instructor at NUST Murabbi</strong><br>
+🎓 <strong>Python Instructor at Source Code</strong><br>
 💡 Teaching <strong>AI, Programming, and Robotics</strong> to young learners<br>
 🌍 Empowering students with <strong>future-ready tech skills</strong> and building real-world AI systems
 </p>
@@ -17,9 +17,6 @@
 <ul>
   <li>🧠 AI + Computer Vision systems, RAG-based chatbots, and fine-tuned LLMs</li>
   <li>👁️ Real-time vision pipelines (OCR, detection, tracking, analytics)</li>
-  <li>💻 Building full-stack AI-powered web applications</li>
-  <li>📚 Enrolled in <strong>Stanford Code in Place 2025</strong> as an experienced student</li>
-  <li>🔧 Hands-on coding & robotics labs for underprivileged students</li>
   <li>🎨 Exploring generative AI for education and automation</li>
 </ul>
 
