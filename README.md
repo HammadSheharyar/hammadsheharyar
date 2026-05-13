@@ -15,8 +15,8 @@
 <h2>📈 What I’m Working On</h2>
 
 <ul>
-  <li>🧠 AI + Computer Vision systems, RAG-based chatbots, and fine-tuned LLMs</li>
-  <li>👁️ Real-time vision pipelines (OCR, detection, tracking, analytics)</li>
+  <li>🧠 AI + Computer Vision systems, RAG-based chatbots, and fine-tuned LLMs (Gemma4 Vision)</li>
+  <li>👁️ Real-time vision pipelines (OCR, detection, tracking, analytics, GPU Programming)</li>
   <li>🎨 Exploring generative AI for education and automation</li>
 </ul>
 
